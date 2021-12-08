@@ -19,7 +19,7 @@
 * [人認識ミドルウェア(NuiTrack)の環境構築と動作確認](http://www1.meijo-u.ac.jp/~kohara/cms/technicalreport/ros_nuitrack)
 
 **仕様書**
-* [HumanDetection仕様書]()
+* HumanDetection仕様書
 
 **その他**
 * プレゼンテーション動画・・・準備中
