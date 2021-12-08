@@ -1,0 +1,94 @@
+Dec 08 11:03:50.570 INFO: manager: 1.2.2
+Dec 08 11:03:50.570 INFO: manager: Copyright (C) 2003-2020, Noriaki Ando and OpenRTM development team,
+Dec 08 11:03:50.570 INFO: manager:   Intelligent Systems Research Institute, AIST,
+Dec 08 11:03:50.570 INFO: manager: Copyright (C) 2020, Noriaki Ando and OpenRTM development team,
+Dec 08 11:03:50.570 INFO: manager:   Industrial Cyber-Physical Research Center, AIST,
+Dec 08 11:03:50.570 INFO: manager:   All right reserved.
+Dec 08 11:03:50.570 INFO: manager: Manager starting.
+Dec 08 11:03:50.570 INFO: manager: Starting local logging.
+Dec 08 11:03:50.571 INFO: NamingManager: NameServer connection failed: corba/localhost
+Dec 08 11:03:50.571 INFO: ManagerServant: Named manager reference (INS) was successfully created.
+Dec 08 11:03:50.572 WARNING: ManagerServant: Master manager not found
+Dec 08 11:03:50.572 INFO: LocalServiceAdmin: All the local services are enabled.
+Dec 08 11:03:50.573 INFO: ec_base: setRate(1000000.000000) done
+Dec 08 11:03:50.573 INFO: ec_base: setRate(1000.000000) done
+Dec 08 11:03:50.573 INFO: HumanProtection0: 1 execution context was created.
+Dec 08 11:03:50.573 INFO: HumanProtection0: Initial active configuration set is default.
+Dec 08 11:04:00.603 INFO: NamingManager: NameServer connection failed: corba/localhost
+Dec 08 11:04:00.604 INFO: ManagerServant: Master manager not found
+Dec 08 11:04:10.636 INFO: NamingManager: NameServer connection failed: corba/localhost
+Dec 08 11:04:10.637 INFO: ManagerServant: Master manager not found
+Dec 08 11:04:20.662 INFO: NamingManager: NameServer connection failed: corba/localhost
+Dec 08 11:04:20.662 INFO: ManagerServant: Master manager not found
+Dec 08 11:04:30.683 INFO: NamingManager: NameServer connection failed: corba/localhost
+Dec 08 11:04:30.684 INFO: ManagerServant: Master manager not found
+Dec 08 11:04:40.726 WARNING: NamingOnCorba: No endpoint for the CORBA naming service (localhost) was found.
+Dec 08 11:04:40.726 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Dec 08 11:04:40.726 INFO: NamingManager: Connected to a name server: corba/localhost
+Dec 08 11:04:40.729 INFO: ManagerServant: Master manager not found
+Dec 08 11:04:50.759 INFO: ManagerServant: Master manager not found
+Dec 08 11:04:53.500 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Dec 08 11:05:00.785 INFO: ManagerServant: Master manager not found
+Dec 08 11:05:10.822 INFO: ManagerServant: Master manager not found
+Dec 08 11:05:20.860 INFO: ManagerServant: Master manager not found
+Dec 08 11:05:30.893 INFO: ManagerServant: Master manager not found
+Dec 08 11:05:40.932 INFO: ManagerServant: Master manager not found
+Dec 08 11:05:50.968 INFO: ManagerServant: Master manager not found
+Dec 08 11:06:00.985 INFO: ManagerServant: Master manager not found
+Dec 08 11:06:11.001 INFO: ManagerServant: Master manager not found
+Dec 08 11:06:21.017 INFO: ManagerServant: Master manager not found
+Dec 08 11:06:31.033 INFO: ManagerServant: Master manager not found
+Dec 08 11:06:41.049 INFO: ManagerServant: Master manager not found
+Dec 08 11:06:51.065 INFO: ManagerServant: Master manager not found
+Dec 08 11:07:01.081 INFO: ManagerServant: Master manager not found
+Dec 08 11:07:11.099 INFO: ManagerServant: Master manager not found
+Dec 08 11:07:21.114 INFO: ManagerServant: Master manager not found
+Dec 08 11:07:31.128 INFO: ManagerServant: Master manager not found
+Dec 08 11:07:41.144 INFO: ManagerServant: Master manager not found
+Dec 08 11:07:51.159 INFO: ManagerServant: Master manager not found
+Dec 08 11:08:01.176 INFO: ManagerServant: Master manager not found
+Dec 08 11:08:11.192 INFO: ManagerServant: Master manager not found
+Dec 08 11:08:21.207 INFO: ManagerServant: Master manager not found
+Dec 08 11:08:31.222 INFO: ManagerServant: Master manager not found
+Dec 08 11:08:41.237 INFO: ManagerServant: Master manager not found
+Dec 08 11:08:51.253 INFO: ManagerServant: Master manager not found
+Dec 08 11:09:01.269 INFO: ManagerServant: Master manager not found
+Dec 08 11:09:11.283 INFO: ManagerServant: Master manager not found
+Dec 08 11:09:21.298 INFO: ManagerServant: Master manager not found
+Dec 08 11:09:31.313 INFO: ManagerServant: Master manager not found
+Dec 08 11:09:41.326 INFO: ManagerServant: Master manager not found
+Dec 08 11:09:51.341 INFO: ManagerServant: Master manager not found
+Dec 08 11:10:01.357 INFO: ManagerServant: Master manager not found
+Dec 08 11:10:11.373 INFO: ManagerServant: Master manager not found
+Dec 08 11:10:21.400 INFO: ManagerServant: Master manager not found
+Dec 08 11:10:31.421 INFO: ManagerServant: Master manager not found
+Dec 08 11:10:41.460 INFO: ManagerServant: Master manager not found
+Dec 08 11:10:51.492 INFO: ManagerServant: Master manager not found
+Dec 08 11:11:01.522 INFO: ManagerServant: Master manager not found
+Dec 08 11:11:11.551 INFO: ManagerServant: Master manager not found
+Dec 08 11:11:21.578 INFO: ManagerServant: Master manager not found
+Dec 08 11:11:31.613 INFO: ManagerServant: Master manager not found
+Dec 08 11:11:41.639 INFO: ManagerServant: Master manager not found
+Dec 08 11:11:51.670 INFO: ManagerServant: Master manager not found
+Dec 08 11:12:01.704 INFO: ManagerServant: Master manager not found
+Dec 08 11:12:11.732 INFO: ManagerServant: Master manager not found
+Dec 08 11:12:21.765 INFO: ManagerServant: Master manager not found
+Dec 08 11:12:31.804 INFO: ManagerServant: Master manager not found
+Dec 08 11:12:41.845 INFO: ManagerServant: Master manager not found
+Dec 08 11:12:51.880 INFO: ManagerServant: Master manager not found
+Dec 08 11:13:01.913 INFO: ManagerServant: Master manager not found
+Dec 08 11:13:11.951 INFO: ManagerServant: Master manager not found
+Dec 08 11:13:21.991 INFO: ManagerServant: Master manager not found
+Dec 08 11:13:32.016 INFO: ManagerServant: Master manager not found
+Dec 08 11:13:42.039 INFO: ManagerServant: Master manager not found
+Dec 08 11:13:52.059 INFO: ManagerServant: Master manager not found
+Dec 08 11:14:02.086 INFO: ManagerServant: Master manager not found
+Dec 08 11:14:12.117 INFO: ManagerServant: Master manager not found
+Dec 08 11:14:22.137 INFO: ManagerServant: Master manager not found
+Dec 08 11:14:32.168 INFO: ManagerServant: Master manager not found
+Dec 08 11:14:42.196 INFO: ManagerServant: Master manager not found
+Dec 08 11:14:52.224 INFO: ManagerServant: Master manager not found
+Dec 08 11:15:02.252 INFO: ManagerServant: Master manager not found
+Dec 08 11:15:07.827 ERROR: ec_worker: State of the RTC is not ACTIVE_STATE.
+Dec 08 11:15:07.889 WARNING: ec_worker: ExecutionContext is already stopped.
+Dec 08 11:15:07.889 ERROR: ec_base: Invoking on_shutdown() for each RTC failed.
