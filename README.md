@@ -17,7 +17,7 @@
 
 # ドキュメント
 **マニュアル**
-* 人認識ミドルウェア(NuiTrack)の環境構築と動作確認
+* 人認識ミドルウェア(Nuitrack)の環境構築と動作確認
 
 **仕様書**
 * [HumanDetection仕様書](https://github.com/Hisanori-Suito/HumanDetection/blob/master/Documents/HumanDetectionSpecification.pdf)
