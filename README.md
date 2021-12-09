@@ -19,8 +19,8 @@
 * 人認識ミドルウェア(NuiTrack)の環境構築と動作確認
 
 **仕様書**
-* [HumanDetection仕様書](https://github.com/rsdlab/HumanDetection/blob/master/Documents/HumanDetectionSpecification.pdf)
-* [HumanProtection仕様書](https://github.com/rsdlab/HumanDetection/blob/master/Documents/HumanProtectionSpecification.pdf)
+* [HumanDetection仕様書](https://github.com/Hisanori-Suito/HumanDetection/blob/master/Documents/HumanDetectionSpecification.pdf)
+* [HumanProtection仕様書](https://github.com/Hisanori-Suito/HumanDetection/blob/master/Documents/HumanProtectionSpecification.pdf)
 
 **その他**
 * プレゼンテーション動画・・・準備中
